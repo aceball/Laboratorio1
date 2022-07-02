@@ -1,0 +1,8 @@
+C:\Users\ADRIAN\Desktop\UTN\Adrian_Ceballos_Lab_Comi19\Adrian_Ceballos_Propuestos_2022\Propuestos4.4\Propuestos4.4\bin\Debug\Propuestos4.4.exe.config
+C:\Users\ADRIAN\Desktop\UTN\Adrian_Ceballos_Lab_Comi19\Adrian_Ceballos_Propuestos_2022\Propuestos4.4\Propuestos4.4\bin\Debug\Propuestos4.4.exe
+C:\Users\ADRIAN\Desktop\UTN\Adrian_Ceballos_Lab_Comi19\Adrian_Ceballos_Propuestos_2022\Propuestos4.4\Propuestos4.4\bin\Debug\Propuestos4.4.pdb
+C:\Users\ADRIAN\Desktop\UTN\Adrian_Ceballos_Lab_Comi19\Adrian_Ceballos_Propuestos_2022\Propuestos4.4\Propuestos4.4\obj\Debug\Propuestos4.4.csproj.AssemblyReference.cache
+C:\Users\ADRIAN\Desktop\UTN\Adrian_Ceballos_Lab_Comi19\Adrian_Ceballos_Propuestos_2022\Propuestos4.4\Propuestos4.4\obj\Debug\Propuestos4.4.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADRIAN\Desktop\UTN\Adrian_Ceballos_Lab_Comi19\Adrian_Ceballos_Propuestos_2022\Propuestos4.4\Propuestos4.4\obj\Debug\Propuestos4.4.csproj.CoreCompileInputs.cache
+C:\Users\ADRIAN\Desktop\UTN\Adrian_Ceballos_Lab_Comi19\Adrian_Ceballos_Propuestos_2022\Propuestos4.4\Propuestos4.4\obj\Debug\Propuestos4.4.exe
+C:\Users\ADRIAN\Desktop\UTN\Adrian_Ceballos_Lab_Comi19\Adrian_Ceballos_Propuestos_2022\Propuestos4.4\Propuestos4.4\obj\Debug\Propuestos4.4.pdb
